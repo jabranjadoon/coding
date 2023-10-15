@@ -1,6 +1,6 @@
 # coding
 
-#The code is cloned using following command
+# 'The code is cloned using following command'
 'git clone https://github.com/jabranjadoon/coding.git'
 
 #The new files are added modified in visual studio and updated using git commit as: 
@@ -12,9 +12,9 @@
 'git commet -m "Any changes message here" '
 
 #Then push using token produced in Developer settings of github 
-#     ' git push https://   TOKEN  @ github.com/jabranjadoon/coding.git ' 
+' git push https://   TOKEN  @ github.com/jabranjadoon/coding.git ' 
 #                                  or
-#     ' git push https://   TOKEN  @ github.com/jabranjadoon/anyrepository.git ' 
+' git push https://   TOKEN  @ github.com/jabranjadoon/anyrepository.git ' 
 
 
 #Then pull command doesnot needs any authentication token
