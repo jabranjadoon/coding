@@ -1,3 +1,3 @@
 # coding
-
-Here is my read me file
+The code is clned using following command
+git clone ""
