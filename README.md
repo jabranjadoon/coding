@@ -1,6 +1,6 @@
-# coding
+# Code Pull Push Github
 
-# 'The code is cloned using following command'
+#The code is cloned using following command
 'git clone https://github.com/jabranjadoon/coding.git'
 
 #The new files are added modified in visual studio and updated using git commit as: 
