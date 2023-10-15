@@ -17,4 +17,6 @@
 #     ' git push https://   TOKEN  @ github.com/jabranjadoon/anyrepository.git ' 
 
 
-
+#Then pull command doesnot needs any authentication token
+#Just use command git pull from inside repository code
+'git pull'
