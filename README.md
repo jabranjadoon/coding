@@ -12,8 +12,7 @@
 'git commet -m "Any changes message here" '
 
 #Then push using token produced in Developer settings of github 
-' git push https://   TOKEN  @ github.com/jabranjadoon/coding.git ' 
-#                                  or
+' git push https://   TOKEN  @ github.com/jabranjadoon/coding.git ' or
 ' git push https://   TOKEN  @ github.com/jabranjadoon/anyrepository.git ' 
 
 
